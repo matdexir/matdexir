@@ -3,7 +3,8 @@
 (Neo)VIM enthusiast.
 Still trying to find my path.
 
-Here is a quicklist of my goals for this summer :bangbang: :
+Here is a quicklist of my goals for this summer:
+
     * Solve a total of 50 (strong)CTF problems
     * Get ranked top 150 on CodeAbbey
     * Finish my main project __ergo__
