@@ -25,7 +25,7 @@ From my past experiences(+ Youtube videos), a more DevOps oriented path would su
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Stats :bar_chart:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdexir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdexir&layout=compact)
 
 ### OS :penguin:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
